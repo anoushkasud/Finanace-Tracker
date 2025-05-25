@@ -27,3 +27,12 @@ git clone <repo-url>
 cd finance-tracker-mobile
 npm install
 npx expo start
+```
+### Running the App
+- Use Expo Go app on your mobile device or an emulator
+- Scan the QR code or run on iOS/Android simulator
+
+### Roadmap
+- Backend API integration
+- Persistent storage and sync
+- AI-powered financial insights and recommendations
